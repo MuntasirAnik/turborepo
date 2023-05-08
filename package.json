@@ -20,7 +20,8 @@
     "packages/*"
   ],
   "dependencies": {
-    "commitizen": "^4.3.0"
+    "commitizen": "^4.3.0",
+    "husky": "^8.0.3"
   },
   "config": {
     "commitizen": {
